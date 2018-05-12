@@ -12,26 +12,26 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "get-browser-rtc": "^1.0.0",
-    "inherits": "^2.0.1",
-    "randombytes": "^2.0.3",
-    "readable-stream": "^2.3.4"
+    "get-browser-rtc": "^1.0.2",
+    "inherits": "^2.0.3",
+    "randombytes": "^2.0.6",
+    "readable-stream": "^2.3.6"
   },
   "devDependencies": {
     "airtap": "0.0.5",
-    "bowser": "^1.9.2",
-    "browserify": "^16.1.0",
+    "bowser": "^1.9.3",
+    "browserify": "^16.2.2",
     "electron-webrtc": "^0.3.0",
-    "prettier-bytes": "^1.0.3",
-    "simple-get": "^3.0.1",
+    "prettier-bytes": "^1.0.4",
+    "simple-get": "^3.0.2",
     "speedometer": "^1.0.0",
     "standard": "*",
-    "string-to-stream": "^1.0.0",
-    "tape": "^4.0.0",
-    "thunky": "^1.0.1",
-    "uglify-js": "^3.3.11",
-    "wrtc": "^0.1.1",
-    "ws": "^5.0.0"
+    "string-to-stream": "^1.1.1",
+    "tape": "^4.9.0",
+    "thunky": "^1.0.2",
+    "uglify-js": "^3.3.24",
+    "wrtc": "^0.1.4",
+    "ws": "^5.1.1"
   },
   "keywords": [
     "data",
